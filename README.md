@@ -1,6 +1,6 @@
 # tRauma: A dynamic database of blunt rib trauma
 This repository contains screenshots of a Shiny application developed using the doctoral dissertation data of 
->**Dr. Cortney N. Hulse** and funded through a National Institute of Justice Graduate Research Fellowship (Award [2019-R2-Cx-0047](https://nij.ojp.gov/funding/awards/2019-r2-cx-0047)). 
+>**Dr. Cortney N. Hulse** and funded through a National Institute of Justice Graduate Research Fellowship (Award [2019-R2-CX-0047](https://nij.ojp.gov/funding/awards/2019-r2-cx-0047)). 
 
 All code, functions, and design were executed by Elaine Y. Chu, with UX input provided by Briana T. New, Kyra E. Stull, and Christopher A. Wolfe.
 
