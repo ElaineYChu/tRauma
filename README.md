@@ -4,6 +4,8 @@ This repository contains screenshots of a Shiny application developed using the 
 
 All code, functions, and design were executed by Elaine Y. Chu, with UX input provided by Briana T. New, Kyra E. Stull, and Christopher A. Wolfe.
 
+The applicaiton is available via Shinyapps.io here: https://cnhulse.shinyapps.io/trauma/
+
 ## Screenshots
 
 ### Reference Data Tab
